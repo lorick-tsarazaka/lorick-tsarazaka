@@ -1,0 +1,27 @@
+name: Update README Date
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Tous les jours à minuit UTC
+  workflow_dispatch:       # Permet aussi de lancer manuellement
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Update date in README
+        run: |
+          DATE=$(date +"%d/%m/%Y")
+          sed -i "s/{{DATE}}/$DATE/g" README.md
+
+      - name: Commit & Push changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "Update date to $DATE" || echo "No changes to commit"
+          git push
