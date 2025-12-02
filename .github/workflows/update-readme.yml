@@ -16,7 +16,7 @@ jobs:
       - name: Update date in README
         run: |
           DATE=$(date +"%d/%m/%Y")
-          sed -i "s/{{DATE}}/$DATE/g" README.md
+          sed -i "s|{{DATE}}|$DATE|g" README.md
 
       - name: Commit & Push changes
         run: |
