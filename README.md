@@ -2,7 +2,8 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=60&pause=400&color=35bfe9&width=1600&height=110&lines=Hi+!+I'm+a+Computer+Science+student.&repeat=false" alt="Typing SVG" style="display: block;"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=60&pause=400&color=35bfe9&width=1600&height=80&lines=Hi+!+I'm+a+Computer+Science+student.&repeat=false" alt="Typing SVG" style="display:block; height:auto;">
+
   
   <p align="right">_{{DATE}}_</p>
 
