@@ -13,14 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v3
 
       - name: Update date in README
         run: |
           DATE=$(date +"%d/%m/%Y")
-          # Remplace la ligne APRÈS le placeholder invisible
-          sed -i "/<!--DATE-PLACEHOLDER-->/!b;n;c$DATE" README.md
+          # Remplace la ligne après le placeholder invisible
+          sed -i "/<!--DATE-PLACEHOLDER-->/!b;n;c<p align=\"right\">$DATE</p>" README.md
 
       - name: Commit and push
         run: |
