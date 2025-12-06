@@ -35,8 +35,8 @@ jobs:
       # 4️⃣ Commit avec message aléatoire
       - name: Commit changes
         run: |
-          git config --local user.email "kevinramarozatovo@gmail.com"
-          git config --local user.name "Kevin-rm"
+          git config --local user.email "lorick.tsarazaka.lk@gmail.com"
+          git config --local user.name "lorick-tsarazaka"
           git add -A
 
           array[0]="🌟 Auto commit"
