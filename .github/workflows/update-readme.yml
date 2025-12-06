@@ -4,6 +4,10 @@ on:
   push:
     branches:
       - main
+    # Empêche le workflow de se relancer quand lui-même modifie ces fichiers
+    paths-ignore:
+      - 'LAST_UPDATED'
+      - 'README.md'
   schedule:
     - cron: "0 0 * * *"  # Tous les jours à minuit UTC
   workflow_dispatch:
@@ -24,7 +28,7 @@ jobs:
 
       # 2️⃣ Modifier la date dans LAST_UPDATED
       - name: Update LAST_UPDATED
-        run: echo `date '+%d/%m/%Y %H:%M:%S'` > LAST_UPDATED
+        run: echo "`date '+%d/%m/%Y %H:%M:%S'`" > LAST_UPDATED
 
       # 3️⃣ Modifier la date dans README.md
       - name: Update README date
@@ -39,20 +43,20 @@ jobs:
           git config --local user.name "lorick-tsarazaka"
           git add -A
 
-          array[0]="🌟 Auto commit"
-          array[1]="⚡ Auto commit"
-          array[2]="🌈 Auto commit"
-          array[3]="🪲 Auto commit"
-          array[4]="📖 Auto commit"
-          array[5]="🛠️ Auto commit"
-          array[6]="🍃 Auto commit"
-          array[7]="💥 Auto commit"
-          array[8]="🚨 Auto commit"
-          array[9]="🔍 Auto commit"
+          array[0]="🌟 Auto commit [auto]"
+          array[1]="⚡ Auto commit [auto]"
+          array[2]="🌈 Auto commit [auto]"
+          array[3]="🪲 Auto commit [auto]"
+          array[4]="📖 Auto commit [auto]"
+          array[5]="🛠️ Auto commit [auto]"
+          array[6]="🍃 Auto commit [auto]"
+          array[7]="💥 Auto commit [auto]"
+          array[8]="🚨 Auto commit [auto]"
+          array[9]="🔍 Auto commit [auto]"
 
           git commit -m "${array[$RANDOM % ${#array[@]}]}" || echo "No changes to commit"
 
-      # 5️⃣ Push
+      # 5️⃣ Pousser avec PAT
       - name: Push changes
         run: |
           git config --local user.email "lorick.tsarazaka.lk@gmail.com"
