@@ -54,8 +54,10 @@ jobs:
 
       # 5️⃣ Push
       - name: Push changes
-        uses: ad-m/github-push-action@v0.6.0
-        with:
-          directory: "."
-          branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config --local user.email "lorick.tsarazaka.lk@gmail.com"
+          git config --local user.name "lorick-tsarazaka"
+
+          git remote set-url origin https://lorick-tsarazaka:${{ secrets.PAT_TOKEN }}@github.com/lorick-tsarazaka/lorick-tsarazaka.git
+
+          git push origin main
