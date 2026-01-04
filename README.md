@@ -81,17 +81,6 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
-## 📫 Contact Me
-
-<div align="left">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorick-tsarazaka)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.lorick.tsarazaka.lk@gmail.com)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💬 Quote of the Day
@@ -107,5 +96,17 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/lorick-tsarazaka/lorick-tsarazaka/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
+---
+
+## 📫 Contact Me
+
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorick-tsarazaka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.lorick.tsarazaka.lk@gmail.com)
 
 </div>
