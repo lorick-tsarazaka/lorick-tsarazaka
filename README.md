@@ -74,23 +74,13 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 <div align="center">
 
-<!-- GitHub Streak - Using alternative instance -->
-<img src="https://streak-stats.demolab.com/?user=lorick-tsarazaka&theme=tokyonight&hide_border=true&background=0D1117&ring=35bfe9&fire=35bfe9&currStreakLabel=35bfe9" alt="GitHub Streak"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com?user=lorick-tsarazaka&theme=tokyonight&hide_border=true&background=0D1117&ring=35bfe9&fire=35bfe9&currStreakLabel=35bfe9" alt="GitHub Streak"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<!-- Trophies - Using alternative instance -->
-<img src="https://github-profile-trophy.vercel.app/?username=lorick-tsarazaka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-
-</div>
-
----
 
 ## 📫 Contact Me
 
