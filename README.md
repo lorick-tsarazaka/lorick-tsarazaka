@@ -18,21 +18,21 @@
 
 ---
 
-## 👨‍💻 À propos de moi
+## 👨‍💻 About Me
 
 ```yaml
 name: Lorick Tsilavina TSARAZAKA
 located_in: Madagascar 🇲🇬
 current_focus: Computer Science Student
-interests: [Développement Web, Programmation, Nouvelles Technologies]
-hobbies: [Coder, Apprendre, Explorer de nouveaux frameworks]
+interests: [Web Development, Programming, New Technologies]
+hobbies: [Coding, Learning, Exploring new frameworks]
 ```
 
-- 🎓 Étudiant en **Informatique**
-- 🌱 J'apprends actuellement de nouvelles technologies
-- 💡 Passionné par la résolution de problèmes
-- 🎯 Objectif : Devenir un développeur Full Stack
-- ⚡ Fun fact : J'adore transformer des idées en code !
+- 🎓 **Computer Science** Student
+- 🌱 Currently learning new technologies
+- 💡 Passionate about problem solving
+- 🎯 Goal: Become a Full Stack Developer
+- ⚡ Fun fact: I love turning ideas into code!
 
 ---
 
@@ -80,7 +80,7 @@ hobbies: [Coder, Apprendre, Explorer de nouveaux frameworks]
 
 ---
 
-## 🏆 Trophées GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -90,7 +90,7 @@ hobbies: [Coder, Apprendre, Explorer de nouveaux frameworks]
 
 ---
 
-## 📫 Me Contacter
+## 📫 Contact Me
 
 <div align="center">
 
@@ -104,7 +104,7 @@ hobbies: [Coder, Apprendre, Explorer de nouveaux frameworks]
 
 <div align="center">
 
-### 💬 Citation du jour
+### 💬 Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
