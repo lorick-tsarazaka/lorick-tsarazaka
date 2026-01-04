@@ -110,7 +110,7 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <div align="left">
 
