@@ -1,10 +1,123 @@
 # Lorick Tsilavina TSARAZAKA
 
-<div style="display: flex; flex-direction: column; align-items: end;">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=60&pause=400&color=35bfe9&width=1600&height=100&lines=Hi+!+I'm+a+Computer+Science+Student+(CSS).&repeat=false" alt="Typing SVG" style="display:block; height:auto;">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=30&pause=400&color=35bfe9&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Lorick+!;Computer+Science+Student;Passionate+Developer;Always+Learning+New+Things" alt="Typing SVG">
 
 <!--DATE-PLACEHOLDER-->
-<p align="right">04/01/2026</p>
+<p>📅 04/01/2026</p>
+
+[![GitHub followers](https://img.shields.io/github/followers/lorick-tsarazaka?style=social)](https://github.com/lorick-tsarazaka)
+[![Profile Views](https://komarev.com/ghpvc/?username=lorick-tsarazaka&color=35bfe9&style=flat-square)](https://github.com/lorick-tsarazaka)
+
+</div>
+
+---
+
+## 👨‍💻 À propos de moi
+
+```yaml
+name: Lorick Tsilavina TSARAZAKA
+located_in: Madagascar 🇲🇬
+current_focus: Computer Science Student
+interests: [Développement Web, Programmation, Nouvelles Technologies]
+hobbies: [Coder, Apprendre, Explorer de nouveaux frameworks]
+```
+
+- 🎓 Étudiant en **Informatique**
+- 🌱 J'apprends actuellement de nouvelles technologies
+- 💡 Passionné par la résolution de problèmes
+- 🎯 Objectif : Devenir un développeur Full Stack
+- ⚡ Fun fact : J'adore transformer des idées en code !
+
+---
+
+## 🛠️ Compétences & Technologies
+
+### Langages de Programmation
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Frameworks & Bibliothèques
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Bases de Données
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Outils & Plateformes
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=lorick-tsarazaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&icon_color=35bfe9" alt="GitHub Stats" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorick-tsarazaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9" alt="Top Languages" height="180"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=lorick-tsarazaka&theme=tokyonight&hide_border=true&background=0D1117&ring=35bfe9&fire=35bfe9&currStreakLabel=35bfe9" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+## 🏆 Trophées GitHub
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=lorick-tsarazaka&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📫 Me Contacter
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lorick-tsarazaka)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lorick-tsarazaka)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Citation du jour
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+⭐️ From [lorick-tsarazaka](https://github.com/lorick-tsarazaka) with ❤️
+
+![Snake animation](https://raw.githubusercontent.com/lorick-tsarazaka/lorick-tsarazaka/output/github-contribution-grid-snake-dark.svg)
 
 </div>
