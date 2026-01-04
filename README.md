@@ -64,15 +64,18 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lorick-tsarazaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&icon_color=35bfe9" alt="GitHub Stats" height="180"/>
+<!-- GitHub Stats - Using alternative reliable instance -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorick-tsarazaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&icon_color=35bfe9" alt="GitHub Stats" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorick-tsarazaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9" alt="Top Languages" height="180"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorick-tsarazaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9" alt="Top Languages" height="180"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=lorick-tsarazaka&theme=tokyonight&hide_border=true&background=0D1117&ring=35bfe9&fire=35bfe9&currStreakLabel=35bfe9" alt="GitHub Streak"/>
+<!-- GitHub Streak - Using alternative instance -->
+<img src="https://streak-stats.demolab.com/?user=lorick-tsarazaka&theme=tokyonight&hide_border=true&background=0D1117&ring=35bfe9&fire=35bfe9&currStreakLabel=35bfe9" alt="GitHub Streak"/>
 
 </div>
 
@@ -82,7 +85,8 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lorick-tsarazaka&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Trophies - Using alternative instance -->
+<img src="https://github-profile-trophy.vercel.app/?username=lorick-tsarazaka&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
