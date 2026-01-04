@@ -70,11 +70,15 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 <div align="center">
 
-<!-- GitHub Stats - Using alternative reliable instance -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorick-tsarazaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&icon_color=35bfe9" alt="GitHub Stats" height="180"/>
+<!-- GitHub Stats -->
+<a href="https://github.com/lorick-tsarazaka">
+  <img src="https://github-readme-stats.vercel.app/api?username=lorick-tsarazaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&icon_color=35bfe9&cache_seconds=1800" alt="GitHub Stats" height="180"/>
+</a>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorick-tsarazaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9" alt="Top Languages" height="180"/>
+<a href="https://github.com/lorick-tsarazaka">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lorick-tsarazaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&cache_seconds=1800" alt="Top Languages" height="180"/>
+</a>
 
 </div>
 
