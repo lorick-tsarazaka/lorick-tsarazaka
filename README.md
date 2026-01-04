@@ -20,8 +20,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
 ```yaml
 name: Lorick Tsilavina TSARAZAKA
 located_in: Madagascar 🇲🇬
@@ -29,14 +27,6 @@ current_focus: Computer Science Student
 interests: [Web Development, Programming, New Technologies]
 hobbies: [Coding, Learning, Exploring new frameworks]
 ```
-
-- 🎓 **Computer Science** Student
-- 🌱 Currently learning new technologies
-- 💡 Passionate about problem solving
-- 🎯 Goal: Become a Full Stack Developer
-- ⚡ Fun fact: I love turning ideas into code!
-
-<br clear="both">
 
 ---
 
