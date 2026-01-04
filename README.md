@@ -1,11 +1,15 @@
 # Lorick Tsilavina TSARAZAKA
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: end;">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=30&pause=400&color=35bfe9&center=true&vCenter=true&width=600&height=60&lines=Hi+%F0%9F%91%8B+I'm+Lorick+!;Computer+Science+Student;Passionate+Developer;Always+Learning+New+Things" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code+Bold&size=60&pause=400&color=35bfe9&width=1600&height=100&lines=Hi+!+I'm+a+Computer+Science+Student+(CSS).&repeat=false" alt="Typing SVG" style="display:block; height:auto;">
 
 <!--DATE-PLACEHOLDER-->
-<p>📅 04/01/2026</p>
+<p align="right">04/01/2026</p>
+
+</div>
+
+<div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/lorick-tsarazaka?style=social)](https://github.com/lorick-tsarazaka)
 [![Profile Views](https://komarev.com/ghpvc/?username=lorick-tsarazaka&color=35bfe9&style=flat-square)](https://github.com/lorick-tsarazaka)
