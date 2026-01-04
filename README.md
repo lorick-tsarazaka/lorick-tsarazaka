@@ -103,9 +103,8 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
+## Snake Contribution
 <div align="center">
-
-⭐️ From [lorick-tsarazaka](https://github.com/lorick-tsarazaka) with ❤️
 
 ![Snake animation](https://raw.githubusercontent.com/lorick-tsarazaka/lorick-tsarazaka/output/github-contribution-grid-snake-dark.svg)
 
