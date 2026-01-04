@@ -12,7 +12,7 @@
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/lorick-tsarazaka?style=social)](https://github.com/lorick-tsarazaka)
-[![Profile Views](https://komarev.com/ghpvc/?username=lorick-tsarazaka&color=35bfe9&style=flat-square)](https://github.com/lorick-tsarazaka)
+![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Florick-tsarazaka&count_bg=%2335bfe9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=true)
 
 </div>
 
