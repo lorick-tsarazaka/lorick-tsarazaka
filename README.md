@@ -20,6 +20,8 @@
 
 ## About Me
 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 ```yaml
 name: Lorick Tsilavina TSARAZAKA
 located_in: Madagascar 🇲🇬
@@ -92,6 +94,7 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 ### Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 <div></div>
 </div>
 
