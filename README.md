@@ -18,7 +18,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 ```yaml
 name: Lorick Tsilavina TSARAZAKA
@@ -30,7 +30,7 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ### Programming Languages
 
@@ -60,7 +60,7 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <div align="center">
 
@@ -83,7 +83,7 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 <div align="center">
 
-### 💬 Quote of the Day
+### Quote of the Day
 
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -102,7 +102,7 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <div align="left">
 
