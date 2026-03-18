@@ -66,27 +66,6 @@ hobbies: [Coding, Learning, Exploring new frameworks]
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<!-- GitHub Stats - Using alternative reliable instance -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=lorick-tsarazaka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9&icon_color=35bfe9" alt="GitHub Stats" height="180"/>
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lorick-tsarazaka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=35bfe9" alt="Top Languages" height="180"/>
-
-</div>
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats-sigma-five.vercel.app?user=lorick-tsarazaka&theme=tokyonight&hide_border=true&background=0D1117&ring=35bfe9&fire=35bfe9&currStreakLabel=35bfe9" alt="GitHub Streak"/>
-
-</div>
-
----
-
 <div align="center">
 
 ### Quote of the Day
